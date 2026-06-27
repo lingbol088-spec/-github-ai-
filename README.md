@@ -87,3 +87,8 @@ scan_result.json   — 结构化数据（密钥仅存 SHA256 hash，不存明文
 ## License
 
 MIT
+
+可以的话赞助一下喵
+
+<img width="700" height="340" alt="490f26c0699115961e7de5031710890e" src="https://github.com/user-attachments/assets/e90df9fa-908a-4875-b8c8-2b1207ba4ea9" />
+
