@@ -90,5 +90,6 @@ MIT
 
 可以的话赞助一下喵
 
-<img width="700" height="340" alt="490f26c0699115961e7de5031710890e" src="https://github.com/user-attachments/assets/e90df9fa-908a-4875-b8c8-2b1207ba4ea9" />
+<img width="1600" height="1040" alt="赞助-聚合收款码" src="https://github.com/user-attachments/assets/4609d621-62f7-413b-882e-e89ebba4cf90" />
+
 
