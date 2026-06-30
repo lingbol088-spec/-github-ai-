@@ -88,8 +88,8 @@ scan_result.json   — 结构化数据（密钥仅存 SHA256 hash，不存明文
 
 MIT
 
-可以的话赞助一下喵
+可以的话可以赞赏一下吗喵
 
-<img width="1600" height="1040" alt="赞助-聚合收款码" src="https://github.com/user-attachments/assets/4609d621-62f7-413b-882e-e89ebba4cf90" />
+<img width="1170" height="1061" alt="download" src="https://github.com/user-attachments/assets/c5a28512-21e7-45c0-b187-bd0ee6ff984d" />
 
 
